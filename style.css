@@ -1,0 +1,25 @@
+body{
+	background-color: #120a59;
+}
+h1{
+	color:#c256e2;
+	font-style: italic;
+	text-align: center;
+}
+p{
+	padding-left: 40pt;
+	font-size: 16pt;
+	font-family: Calibri;
+	color: #f26fe9;
+}
+ul{
+	padding-left: 70pt;
+	font-size: 14pt;
+	color: #f26fe9;
+}
+h2{
+	padding-left: 60pt;
+	font-size: 18pt;
+	font-family: Calibri;
+	color: #c256e2;	
+}
